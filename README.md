@@ -16,7 +16,7 @@ is a debugging tool for everyone!
 ```php
 if (!function_exists('dd')) {
     /**
-     * die and dump
+     * dump and die
      * 
      */
     function dd()
